@@ -1,0 +1,2 @@
+# gitkill
+study git
